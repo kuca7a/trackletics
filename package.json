@@ -1,0 +1,27 @@
+{
+  "name": "trackletics",
+  "version": "1.0.0",
+  "description": "Fitness tracking app that allows users to learn proper form, log their workouts, set fitness goals, and view their progress over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuca7a/trackletics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuca7a/trackletics/issues"
+  },
+  "homepage": "https://github.com/kuca7a/trackletics#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.27"
+  }
+}
